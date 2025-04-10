@@ -11,7 +11,7 @@ Kogito lets us define business logic (like workflows or decisions), and then it 
 
 For example:
 
-We model a loan approval process (BPMN).
-Kogito turns it into a Spring Boot or Quarkus microservice.
-We can deploy this service with Kubernetes to any container environment. Kogito has a strong integration into OpenShift.
-We can call that service from our applications to check loan eligibility.
+- We model a loan approval process (BPMN).
+- Kogito turns it into a Spring Boot or Quarkus microservice.
+- We can deploy this service with Kubernetes to any container environment. Kogito has a strong integration into OpenShift.
+- We can call that service from our applications to check loan eligibility.
