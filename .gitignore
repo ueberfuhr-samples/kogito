@@ -1,5 +1,9 @@
 **/.*
-!.gitignore
-!.editorconfig
 **/*.iml
 **/target
+**/mvnw
+**/mvnw.cmd
+# exceptions
+!**/.dockerignore
+!.gitignore
+!.editorconfig
