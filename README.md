@@ -5,7 +5,7 @@
 It’s the modern evolution of two well-established projects, that are also part of KIE:
 
 - **jBPM** – for modeling and executing **business processes** (using BPMN)
-- **Drools** – a powerful **rules engine** (for decision logic using DRL or DMN)
+- [**Drools**](drools-rules) – a powerful **rules engine** (for decision logic using DRL or DMN)
 
 Kogito lets us define business logic (like workflows or decisions), and then it generates a REST-based service around it.
 
